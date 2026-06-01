@@ -12,6 +12,7 @@ I build things and break things. Most of my day-job code lives in private repos,
 ![pnpm](https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![p5.js](https://img.shields.io/badge/-p5.js-ED225D?logo=p5dotjs&logoColor=white)
 
 ### Reach me
 
